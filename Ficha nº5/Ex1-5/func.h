@@ -1,0 +1,11 @@
+int isdigit1(char c);
+int isalpha1(char c);
+int isalnum1(char c);
+char tolouper1(char c);
+int resto (int a, int b);
+int impar (int x);
+int perfeito (int n);
+int primo(int n);
+void classifica(int a,int b);
+int pedirnum(int n);
+int cubo(int n);
